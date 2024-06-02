@@ -1,0 +1,1 @@
+cat output.log | grep -e "^\[  PASSED  \]" | grep -o "[0-9]\{1,\}"

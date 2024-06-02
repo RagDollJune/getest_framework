@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O0 CMakeFiles/kdnn_gest.dir/src/add.cpp.o CMakeFiles/kdnn_gest.dir/src/main.cpp.o -o kdnn_gest  -lgtest_main -lgtest 

@@ -1,0 +1,15 @@
+Running main() from /home/ragdoll/googletest_framework/googletest-release-1.12.0/gtest/src/main.cpp
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from SomeTest
+[ RUN      ] SomeTest.ABasicTest1
+[       OK ] SomeTest.ABasicTest1 (0 ms)
+[ RUN      ] SomeTest.ABasicTest2
+[       OK ] SomeTest.ABasicTest2 (0 ms)
+[ RUN      ] SomeTest.ABasicTest3
+[       OK ] SomeTest.ABasicTest3 (0 ms)
+[----------] 3 tests from SomeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 123 tests.
